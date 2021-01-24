@@ -306,7 +306,7 @@ maneō, -ēre – remain, tarry&lt;/li&gt;
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
         <guid>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-7/</guid>
-        <description>&lt;p&gt;This is just another &lt;a href=&#34;maslism.github.io/sylabus/data/doku.pdf&#34;&gt;example&lt;/a&gt; of a fixed page, to demonstrate ordered elements in the sidebar.&lt;/p&gt;
+        <description>&lt;p&gt;This is just another &lt;a href=&#34;./data/doku.pdf&#34;&gt;example&lt;/a&gt; of a fixed page, to demonstrate ordered elements in the sidebar.&lt;/p&gt;
 </description>
       </item>
     

@@ -1,5 +1,6 @@
 baseURL = "maslism.github.io/sylabus/"
 languageCode = "en-us"
+relativeURLs = "true"
 title = "Latinský jazyk"
 theme = "lanyon"
 publishDir = "docs"
