@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latinský jazyk </title>
-    <link>maslism.github.io/sylabus/</link>
+    <link>/</link>
     <language>en-us</language>
     <author>Martin Masliš</author>
     <rights>(C) 2014</rights>
@@ -10,10 +10,10 @@
     
       <item>
         <title>Literatúra</title>
-        <link>maslism.github.io/sylabus/fixed/literatura/</link>
+        <link>/fixed/literatura/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>maslism.github.io/sylabus/fixed/literatura/</guid>
+        <guid>/fixed/literatura/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;[AdF] = Kuťáková, Eva, and Dana Slabochová. 2014. &lt;em&gt;Ad Fontes: Cursus Latinus&lt;/em&gt;. Praha: Univerzita Karlova v Praze, Nakladatelství Karolinum.&lt;/li&gt;
 &lt;li&gt;[P1] = Pech, Jiří. 2010. &lt;em&gt;Latina pro gymnázia I&lt;/em&gt;. Voznice: Leda.&lt;/li&gt;
@@ -27,10 +27,10 @@
     
       <item>
         <title>17. lekce – 5. deklinace</title>
-        <link>maslism.github.io/sylabus/fixed/altab/</link>
+        <link>/fixed/altab/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>maslism.github.io/sylabus/fixed/altab/</guid>
+        <guid>/fixed/altab/</guid>
         <description>&lt;h2 id=&#34;věty&#34;&gt;Věty&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Longitūdō diērum et noctium varia est aestāte et hieme; aestāte diēs longiōrēs, noctēs breviōres sunt.&lt;br&gt;
@@ -242,70 +242,70 @@ maneō, -ēre – remain, tarry&lt;/li&gt;
     
       <item>
         <title>Another Fixed Page</title>
-        <link>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia/</link>
+        <link>/fixed/altab-k%C3%B3pia/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia/</guid>
+        <guid>/fixed/altab-k%C3%B3pia/</guid>
         <description>&lt;p&gt;This is just another example of a fixed page, to demonstrate ordered elements in the sidebar.&lt;/p&gt;
 </description>
       </item>
     
       <item>
         <title>Another Fixed Page</title>
-        <link>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-2/</link>
+        <link>/fixed/altab-k%C3%B3pia-2/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-2/</guid>
+        <guid>/fixed/altab-k%C3%B3pia-2/</guid>
         <description>&lt;p&gt;This is just another example of a fixed page, to demonstrate ordered elements in the sidebar.&lt;/p&gt;
 </description>
       </item>
     
       <item>
         <title>Another Fixed Page</title>
-        <link>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-3/</link>
+        <link>/fixed/altab-k%C3%B3pia-3/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-3/</guid>
+        <guid>/fixed/altab-k%C3%B3pia-3/</guid>
         <description>&lt;p&gt;This is just another example of a fixed page, to demonstrate ordered elements in the sidebar.&lt;/p&gt;
 </description>
       </item>
     
       <item>
         <title>Another Fixed Page</title>
-        <link>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-4/</link>
+        <link>/fixed/altab-k%C3%B3pia-4/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-4/</guid>
+        <guid>/fixed/altab-k%C3%B3pia-4/</guid>
         <description>&lt;p&gt;This is just another example of a fixed page, to demonstrate ordered elements in the sidebar.&lt;/p&gt;
 </description>
       </item>
     
       <item>
         <title>Another Fixed Page</title>
-        <link>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-5/</link>
+        <link>/fixed/altab-k%C3%B3pia-5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-5/</guid>
+        <guid>/fixed/altab-k%C3%B3pia-5/</guid>
         <description>&lt;p&gt;This is just another example of a fixed page, to demonstrate ordered elements in the sidebar.&lt;/p&gt;
 </description>
       </item>
     
       <item>
         <title>Another Fixed Page</title>
-        <link>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-6/</link>
+        <link>/fixed/altab-k%C3%B3pia-6/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-6/</guid>
+        <guid>/fixed/altab-k%C3%B3pia-6/</guid>
         <description>&lt;p&gt;This is just another example of a fixed page, to demonstrate ordered elements in the sidebar.&lt;/p&gt;
 </description>
       </item>
     
       <item>
         <title>28. lekce -- Infinitív praes. pass., akt, infintív futura a slov a slovo a veta</title>
-        <link>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-7/</link>
+        <link>/fixed/altab-k%C3%B3pia-7/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
-        <guid>maslism.github.io/sylabus/fixed/altab-k%C3%B3pia-7/</guid>
+        <guid>/fixed/altab-k%C3%B3pia-7/</guid>
         <description>&lt;p&gt;This is just another &lt;a href=&#34;./data/doku.pdf&#34;&gt;example&lt;/a&gt; of a fixed page, to demonstrate ordered elements in the sidebar.&lt;/p&gt;
 </description>
       </item>
