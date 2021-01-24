@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Latinský jazyk"
+theme = "lanyon"
+
+[params]
+  author = "Martin Masliš"
+  description = "Navigácia"
+  title = "Latinský jazyk"
