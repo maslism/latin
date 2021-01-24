@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "maslism.github.io/sylabus/"
 languageCode = "en-us"
 title = "Latinský jazyk"
 theme = "lanyon"
+publishDir = "docs"
 
 [params]
   author = "Martin Masliš"
