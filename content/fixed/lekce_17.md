@@ -134,19 +134,25 @@ __Vocabulary__
 {{< /tab >}}
 {{< /tabs >}}
 
+<br>
 
+### Křížové odkazy  
 
-{{< row >}}
-{{< column >}}
+{{< tabs tabTotal="4" tabID="2" tabName1="Špaňár" tabName2="Pech 1." tabName3="Wheelock" tabName4="Kacman-Ulyanova">}}
+{{< tab tabNum="1" >}}
+s. 1-79
+{{< /tab >}}
+{{< tab tabNum="2" >}}
+s. 5-69
+{{< /tab >}}
+{{< tab tabNum="3" >}}
+s. 7-89
+{{< /tab >}}
 
-**Nadpis**
+{{< tab tabNum="4" >}}
+s. 3-89
+{{< /tab >}}
 
-1\.Fēlīcēs diēs vītae hominis sunt rārī. 2. Omnium rērum prīncipia parva sunt. 3. In aciem ā duce novō legiō dūcēbātur. 4. Numquam satis facimus reī pūblicae. 5. Rem pūblicam līberam nostram semper dēfendēmus: 6. Multī hostēs in aciē interficiēbantur. 7. In rēbus adversīs multī hominēs sunt sine spē. 8. Ante clādem multōs hominēs sine metū vidēbāmus, post clādem multōs sine spē. 9. Amīcōs secundae rēs parant, adversae probant. 10. Urget diem nox et diēs noctem. 11. Longitūdō diērum et noctium est varia; aestāte diēs sunt longiōrēs, noctēs breviōrēs. 12. Optimum medicāmentum est quiēs. {{< /column >}} 
-{{< column >}}13. Requiem aeternam dōnā nōbīs, Domine! 14. Cerberus diē ac nocte portam īnferōrum dīligenter cūstōdiēbat. 15. Post victōriam hostium spem salūtis magnam nōn habēbāmus. 16. Ulixēs suam patriam quaerēns etiam ad vātem Circam multōs diēs manēbat. 17. Multās rēs tibi parentēs mittunt. {{< /column >}} 
-{{< /row >}}
-
-  
-
-{{< button href="/sylabus/data/doku.pdf" class="btn-outline-info">}}Prípony 3. deklinácie.pdf{{< /button >}}
+{{< /tabs >}}
 
 

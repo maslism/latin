@@ -1,0 +1,12 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+{{- $expandIdCounter := .Page.Scratch.Get "idCounter" | default 1 -}}
+{{- $expandId := print "expand-" $expandIdCounter -}}
+{{- add $expandIdCounter 1 | .Page.Scratch.Set "idCounter" -}}
+<div class="pure-expand{{with (.Get `class`)}} {{.}}{{end}}">
+  <input id="{{$expandId}}" class="pure-expand-checkbox" type="checkbox" />
+  <label for="{{$expandId}}" class="pure-expand-header"><span class="pure-expand-header-title">{{ .Get "title" | default "Expand me" }}</span></label>
+  {{- with .Inner -}}
+  <div class="pure-expand-content">{{ .  | markdownify}}</div>
+  {{- end -}}
+</div>
