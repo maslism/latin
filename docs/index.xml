@@ -9,18 +9,25 @@
 
     
       <item>
-        <title>Literatúra</title>
+        <title>Literatura</title>
         <link>/fixed/literatura/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
         <author>Martin Masliš</author>
         <guid>/fixed/literatura/</guid>
-        <description>&lt;ul&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Česká literatura&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;[AdF] = Kuťáková, Eva, and Dana Slabochová. 2014. &lt;em&gt;Ad Fontes: Cursus Latinus&lt;/em&gt;. Praha: Univerzita Karlova v Praze, Nakladatelství Karolinum.&lt;/li&gt;
 &lt;li&gt;[P1] = Pech, Jiří. 2010. &lt;em&gt;Latina pro gymnázia I&lt;/em&gt;. Voznice: Leda.&lt;/li&gt;
 &lt;li&gt;[Šp] = Špaňár, Július, and Emanuel Kettner. 1976. &lt;em&gt;Latina pro střední všeobecně vzdělávací školy&lt;/em&gt;. Praha: Státní pedagogické nakladatelství.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Anglická literatura&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;[Wh] = Wheelock, Frederic M., and Richard A. LaFleur. 2010. &lt;em&gt;Wheelock&amp;rsquo;s Latin, 6th Edition Revised.&lt;/em&gt; New York: HarperCollins.&lt;/li&gt;
-&lt;li&gt;[Kac-Uly] = Кацман, Нина Л., and Ирина Л. Ульянова. 2009. &lt;em&gt;Латинский язык. Учебник для лицеев и гимназий&lt;/em&gt; [Latinskij jazyk. Učebnik dľa liceev i gimnazij]. Москва: Гуманитарный издательский центр ВЛАДОС.&lt;/li&gt;
 &lt;li&gt;Texty = Groton, Anne H., and James M. May. 2004. &lt;em&gt;Thirty-eight Latin Stories: 5th edition Designed to Accompany Wheelock&amp;rsquo;s Latin.&lt;/em&gt; Wauconda, IL: Bolchazy-Carducci Publishers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ruská literatura&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Kac-Uly] = Кацман, Нина Л., and Ирина Л. Ульянова. 2009. &lt;em&gt;Латинский язык. Учебник для лицеев и гимназий&lt;/em&gt; [Latinskij jazyk. Učebnik dľa liceev i gimnazij]. Москва: Гуманитарный издательский центр ВЛАДОС.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
       </item>
@@ -348,7 +355,7 @@ Píle našich občanů je básníky často chválena.&lt;/li&gt;
 &lt;li&gt;[Wh] 46/11, 14 (&amp;lsquo;dine there today&amp;rsquo;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;a class=&#34;btn btn-outline-info&#34; target=&#34;_blank&#34; href=&#34; /sylabus/data/doku.pdf &#34;&gt;
+&lt;a class=&#34;btn btn-outline-info&#34; target=&#34;_blank&#34; href=&#34; /sylabus/data/3dekl_gram.pdf &#34;&gt;
   Prípony 3. deklinácie.pdf
 &lt;/a&gt;
 
@@ -1253,6 +1260,1616 @@ dispōnō, -ere – arrange, order&lt;/p&gt;
       </item>
     
       <item>
+        <title>12. lekce – Stupňování adjektiv</title>
+        <link>/fixed/lekce_12/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+        <author>Martin Masliš</author>
+        <guid>/fixed/lekce_12/</guid>
+        <description>&lt;h2 id=&#34;věty&#34;&gt;Věty&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Aestāte noctēs breviōrēs sunt quam hieme.&lt;br&gt;
+V létě jsou noci kratší než v zimě.&lt;/li&gt;
+&lt;li&gt;Omnia tua cōnsilia lūce clāriōra sunt.&lt;br&gt;
+Všechny tvé úmysly jsou jasnější než světlo.&lt;/li&gt;
+&lt;li&gt;Fēlīcior sum quam māter mea.&lt;br&gt;
+Jsem šťastnější než moje matka.&lt;/li&gt;
+&lt;li&gt;Frāter tuus probus et sapiēns est, pater tuus probior et sapientior.&lt;br&gt;
+Tvůj bratr je čestný a moudrý, tvůj otec je čestnější a moudřejší.&lt;/li&gt;
+&lt;li&gt;Patria lībera cīvibus nihil cārius est.&lt;br&gt;
+Nic není občanům dražší než svobodná vlast (svoboda vlasti).&lt;/li&gt;
+&lt;li&gt;Cicerō clārissimus omnium ōrātōrum Rōmānōrum erat.&lt;br&gt;
+Cicero byl nejslavnější ze všech římských řečníků.&lt;/li&gt;
+&lt;li&gt;Condiciō servōrum Rōmānōrum miserrima erat.&lt;br&gt;
+Postavení římských otroků bylo velmi ubohé.&lt;/li&gt;
+&lt;li&gt;Vīta nostrōrum puerōrum et puellārum hodiē pulcherrima et fēlīcissima est.&lt;br&gt;
+Život našich chlapců a dívek je dnes velmi krásný a šťastný.&lt;/li&gt;
+&lt;li&gt;Facillimī labōrēs nōn sunt saepe grātissimī.&lt;br&gt;
+Nejlehčí práce často nejsou nejvděčnější.&lt;/li&gt;
+&lt;li&gt;Iuppiter ā Rōmānīs Optimus Maximus appellābātur.&lt;br&gt;
+Jupiter byl Římany nazýván nejlepší a největší.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;úkol&#34;&gt;Úkol&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[Šp] 61/c&lt;/li&gt;
+&lt;li&gt;[Šp] 61/e&lt;/li&gt;
+&lt;li&gt;[P1] 178/3&lt;/li&gt;
+&lt;li&gt;[P1] 178/4 (&lt;em&gt;fortis vir, sed fortior fēmina&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;[P1] 178/5&lt;/li&gt;
+&lt;li&gt;[P1] 178/7&lt;/li&gt;
+&lt;li&gt;[P1] 178/11&lt;/li&gt;
+&lt;li&gt;[P1] 185/e&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vety&#34;&gt;[Kac-Uly] 163/ &lt;em&gt;Prōverbia et dictiōnēs&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;vety&#34;&gt;[Kac-Uly] 163/ &lt;em&gt;Prōverbia et dictiōnēs&lt;/em&gt;&lt;/h4&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab11&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;česky&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab12&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;English&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;1&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab11&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	&lt;p&gt;&lt;strong&gt;Slovní zásoba a poznámky&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;omnis, -e – každý&lt;br&gt;
+aspectus, -ūs, m. – zdání, pohled&lt;br&gt;
+lateō, -ēre – skrývat se&lt;br&gt;
+malum omne, quod – &lt;em&gt;každé zlo, které&amp;hellip;&lt;/em&gt; &lt;br&gt;
+sub aspectū (abl.) bonī – &lt;em&gt;pod zdáním něčeho dobrého&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;interdum – mezitím, někdy &lt;br&gt;
+pars, -tis, f. – část &lt;br&gt;
+vincō, -ere – porážet, vítězit&lt;/li&gt;
+&lt;li&gt;rīsus, -ūs, m. – smích &lt;br&gt;
+ineptus, -a, -um – nevhodný&lt;br&gt;
+nūllus, -a, -um – žádný &lt;br&gt;
+rēs, -eī, f. – věc&lt;br&gt;
+rīsū ineptō (abl.) – &lt;em&gt;nevhodným smíchem&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;honor, -ōris, m. – pocta &lt;br&gt;
+mūtō, -āre – měnit &lt;br&gt;
+mōrēs, -um, m. pl – mravy&lt;br&gt;
+rārō – zřídka&lt;/li&gt;
+&lt;li&gt;adversus, -a, -um – nepříznivý &lt;br&gt;
+faciō, -ere – dělat něco (acc.) nečím (acc.)&lt;br&gt;
+amīcitia, -ae, f. – přátelství&lt;br&gt;
+adversās rēs (acc. pl.) – &lt;em&gt;nepříznivé okolnosti&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;spērō, āre – doufat v (+ acc.) &lt;br&gt;
+meliōra – acc. pl. neut.&lt;/li&gt;
+&lt;li&gt;ūsus, -ūs, m. – zvyk&lt;br&gt;
+omnium rērum (gen.pl.) – &lt;em&gt;všech věci&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;sapiēns, -entis – moudrý&lt;br&gt;
+modestus, -a, -um – skromný&lt;br&gt;
+quō&amp;hellip; eō – &lt;em&gt;čím &amp;hellip; tím&lt;/em&gt; &lt;br&gt;
+quisque – &lt;em&gt;každý, kdokoliv&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;tardus, -a, -um – pomalý &lt;br&gt;
+remedium, -iī, n. – lék&lt;/li&gt;
+&lt;li&gt;flamma, -ae, f. – plamen &lt;br&gt;
+fūmus, -ī, m. – dým &lt;br&gt;
+proximus, -a, -um – nejbližší něčemu (+ dat.)&lt;/li&gt;
+&lt;li&gt;potior, -ius - lepší &lt;br&gt;
+perīculōsus, -a, -um – nebezpečný &lt;br&gt;
+quiētus, -a, -um – klidný&lt;br&gt;
+servitium, -iī, n. – otroctví&lt;/li&gt;
+&lt;li&gt;nihil, n. – nic&lt;br&gt;
+falsus, -a, -um – falešný&lt;/li&gt;
+&lt;li&gt;amor, -ōris, m. – láska&lt;/li&gt;
+&lt;li&gt;-&lt;/li&gt;
+&lt;li&gt;maiōrēs, um, m. pl. – předkové &lt;br&gt;
+mōre (abl. sg.) – &lt;em&gt;jako&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;forma, -ae, f. – podoba&lt;/li&gt;
+&lt;li&gt;diī – nom. pl. ~ deus, -ī, m.&lt;/li&gt;
+&lt;li&gt;cēdō, -ere – ustupovat (+ dat)&lt;br&gt;
+refugium, -iī, n. – útočiště &lt;br&gt;
+ultimus, -a, -um – poslední&lt;/li&gt;
+&lt;li&gt;-&lt;/li&gt;
+&lt;li&gt;ratiō, -ōnis, f. – uvědomení, způsob&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab12&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	&lt;p&gt;&lt;strong&gt;Vocabulary and notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;omnis, -e – all, every&lt;br&gt;
+aspectus, -ūs, m. – appearance, sight&lt;br&gt;
+lateō, -ēre – be hidden&lt;br&gt;
+malum omne, quod – &lt;em&gt;every evil, that&lt;/em&gt; &lt;br&gt;
+sub aspectū (abl.) bonī – &lt;em&gt;under the appearance of something good&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;interdum – sometimes, meanwhile&lt;br&gt;
+pars, -tis, f. – part&lt;br&gt;
+vincō, -ere – conquer, win&lt;/li&gt;
+&lt;li&gt;rīsus, -ūs, m. – laughter&lt;br&gt;
+ineptus, -a, -um – unsuitable, inept&lt;br&gt;
+nūllus, -a, -um – no&lt;br&gt;
+rēs, -eī, f. – thing&lt;br&gt;
+rīsū ineptō (abl.) – &lt;em&gt;by (because of) an inept laughter&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;honor, -ōris, m. – honour&lt;br&gt;
+mūtō, -āre – change&lt;br&gt;
+mōrēs, -um, m. pl – character&lt;br&gt;
+rārō – rarely&lt;/li&gt;
+&lt;li&gt;adversus, -a, -um – adverse&lt;br&gt;
+faciō, -ere – cause smth. (acc.) to turn into smth. (acc.)&lt;br&gt;
+amīcitia, -ae, f. – friendship&lt;br&gt;
+adversās rēs (acc. pl.) – &lt;em&gt;an adverse situation&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;spērō, āre – hope for (+ acc.)&lt;br&gt;
+meliōra – acc. pl. neut.&lt;/li&gt;
+&lt;li&gt;ūsus, -ūs, m. – habit   &lt;br&gt;
+omnium rērum (gen.pl.) – &lt;em&gt;of everything&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;sapiēns, -entis – wise&lt;br&gt;
+modestus, -a, -um – modest&lt;br&gt;
+quō&amp;hellip; eō – &lt;em&gt;the more&amp;hellip; the more&lt;/em&gt;&lt;br&gt;
+quisque – &lt;em&gt;whoever, one&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;tardus, -a, -um – slow&lt;br&gt;
+remedium, -iī, n. – remedy&lt;/li&gt;
+&lt;li&gt;flamma, -ae, f. – flame&lt;br&gt;
+fūmus, -ī, m. – smoke&lt;br&gt;
+proximus, -a, -um – the closest, very close to (+ dat.)&lt;/li&gt;
+&lt;li&gt;potior, -ius – better&lt;br&gt;
+perīculōsus, -a, -um – dangerous&lt;br&gt;
+quiētus, -a, -um – calm&lt;br&gt;
+servitium, -iī, n. – slavery&lt;/li&gt;
+&lt;li&gt;nihil, n. – nothing&lt;br&gt;
+falsus, -a, -um – fake&lt;/li&gt;
+&lt;li&gt;amor, -ōris, m. – love&lt;/li&gt;
+&lt;li&gt;-&lt;/li&gt;
+&lt;li&gt;maiōrēs, um, m. pl. – ancestors&lt;br&gt;
+mōre (abl. sg.) – &lt;em&gt;the way of&amp;hellip;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;forma, -ae, f. – form&lt;/li&gt;
+&lt;li&gt;diī – nom. pl. ~ deus, -ī, m.&lt;/li&gt;
+&lt;li&gt;cēdō, -ere – yield, give space (+ dat.)&lt;/li&gt;
+&lt;li&gt;refugium, -iī, n. – refuge&lt;br&gt;
+ultimus, -a, -um – ultimate, last&lt;/li&gt;
+&lt;li&gt;-&lt;/li&gt;
+&lt;li&gt;ratiō, -ōnis, f. – reckoning, reason, method&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;/div&gt;
+&lt;h3 id=&#34;křížové-odkazy&#34;&gt;Křížové odkazy&lt;/h3&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab21&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;Špaňár&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab22&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Pech 1.&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab23&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Wheelock&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab24&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Kacman-Ulyanova&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;2&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab21&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab22&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab23&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName3&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab24&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName4&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+&lt;/div&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>13. lekce – Adverbia od adjektiv 3. deklinace, stupňování adverbií</title>
+        <link>/fixed/lekce_13/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+        <author>Martin Masliš</author>
+        <guid>/fixed/lekce_13/</guid>
+        <description>&lt;h2 id=&#34;věty&#34;&gt;Věty&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sī iūstē pūniēbātis, nēminī nocēbātis.&lt;br&gt;
+Jestliže jste spravedlivě trestali, nikomu jste neškodili.&lt;/li&gt;
+&lt;li&gt;Discipulī bene et dīligenter studentēs maximīs praemiīs ā societāte nostrā afficiuntur.&lt;br&gt;
+Dobře a pilně studující žáci jsou naší společností odměňování největšími odměnami.&lt;/li&gt;
+&lt;li&gt;Avēs aestāte suāviter cantābant.&lt;br&gt;
+Ptáci v létě příjemně zpívali.&lt;/li&gt;
+&lt;li&gt;Aetāte aureā hominēs fēlīciter sine proeliīs vīvēbant; tunc bella nōn gerēbantur.&lt;br&gt;
+Ve zlatém věku žili lidé šťastně bez bojů, tehdy se války nevedly.&lt;/li&gt;
+&lt;li&gt;Mīlitēs fortiter pugnantēs ā ducibus laudābantur.&lt;br&gt;
+Udatně bojující vojáci byli veliteli chváleni.&lt;/li&gt;
+&lt;li&gt;Nunc melius et fēlīcius vīvimus, quam parentēs nostrī vīvēbant.&lt;br&gt;
+Teď žijeme lépe a šťastněji, než žili naši rodiče.&lt;/li&gt;
+&lt;li&gt;Soror mea peius scrībit quam legit.&lt;br&gt;
+Má sestra píše hůř, než čte.&lt;/li&gt;
+&lt;li&gt;Mīlitēs nostrī facillimē omnia difficilia superābant. &lt;br&gt;
+Naši vojáci velmi jednoduše překonávali všechny obtíže.&lt;/li&gt;
+&lt;li&gt;Classis Graecōrum ad Salamīnem celerius nāvigābant quam classis Persārum.&lt;br&gt;
+Řecké loďstvo plulo u Salamíny rychleji než loďstvo Peršanů.&lt;/li&gt;
+&lt;li&gt;Labōrāte semper optimē!&lt;br&gt;
+Vždy pracujte co nejlépe!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;úkol&#34;&gt;Úkol&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Morfologie:
+&lt;ul&gt;
+&lt;li&gt;[Šp] 65/c&lt;/li&gt;
+&lt;li&gt;[Šp] 65/d&lt;/li&gt;
+&lt;li&gt;[P1] 195/1&lt;/li&gt;
+&lt;li&gt;[P1] 195/3&lt;/li&gt;
+&lt;li&gt;[P1] 196/5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Věty:
+&lt;ul&gt;
+&lt;li&gt;[Šp] 65/e&lt;/li&gt;
+&lt;li&gt;[P1] 199/a&lt;/li&gt;
+&lt;li&gt;[P1] 199/c (podle vlastní volby)&lt;/li&gt;
+&lt;li&gt;[P1] 199/e&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#vety&#34;&gt;[Kac-Uly] 167/3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;vety&#34;&gt;[Kac-Uly] 167/3&lt;/h4&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab11&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;česky&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab12&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;English&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;1&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab11&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	&lt;p&gt;&lt;strong&gt;Slovní zásoba a poznámky&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;iūdex, -cis, m. – soudce &lt;br&gt;
+iniūriā – nespravedlivě  &lt;br&gt;
+accūsātus est – byl obviněn&lt;/li&gt;
+&lt;li&gt;fortis, -e – udatný &lt;br&gt;
+hodiē – dnes &lt;br&gt;
+herī – včera  &lt;br&gt;
+pugnāvērunt – perf. 3. pl., bojovali&lt;/li&gt;
+&lt;li&gt;beneficium, -iī, n. – služba &lt;br&gt;
+bis – dvakrát &lt;br&gt;
+dō, -are – dávat &lt;br&gt;
+celer, -eris –  rychlý&lt;br&gt;
+is&amp;hellip; quī – &lt;em&gt;ten&amp;hellip; kdo&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;mediocris, -e – mírný, prostřední&lt;br&gt;
+aeger, -gra, -grum – nemocný&lt;br&gt;
+sānus, -a, -um – zdravý &lt;br&gt;
+valētūdō, -dinis, f. – zdraví&lt;br&gt;
+cūrō, -āre – starat se o (+ acc.)&lt;/li&gt;
+&lt;li&gt;mōns, -tis, m. – hora &lt;br&gt;
+lentus, -a, -um – pomalý &lt;br&gt;
+cautus, -a, -um – opatrný&lt;br&gt;
+ascendō, -ere – vystupovat&lt;br&gt;
+hunc montem – &lt;em&gt;tuto horu&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;oculus, -ī, m. – oko &lt;br&gt;
+auris, -is, f. – ucho&lt;/li&gt;
+&lt;li&gt;alius, -a, -ud – jiný &lt;br&gt;
+proprius, -a, -um – vlastní&lt;br&gt;
+prius – dříve&lt;br&gt;
+īnspiciō, -ere – zkoumat&lt;br&gt;
+vīs – &lt;em&gt;chceš&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;iūcundus, -a, -um – příjemný&lt;br&gt;
+minus – méně&lt;br&gt;
+&amp;hellip;nōn minus [iūcundum est] amāre&lt;/li&gt;
+&lt;li&gt;uxor, -ōris, f. – manželka&lt;br&gt;
+inveniō, -īre – nacházet&lt;br&gt;
+inveniēs – ind. fut. 2. sg.&lt;/li&gt;
+&lt;li&gt;incipiō, -ere – začínat se &lt;br&gt;
+dēsinō, -ere – končit (se)&lt;br&gt;
+aegrē – &lt;em&gt;težce&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;omnis, e – každý&lt;br&gt;
+dubium, -iī, n. – pochybnost &lt;br&gt;
+miser, -era, -erum – ubohý&lt;br&gt;
+maximē quod&amp;hellip; – &lt;em&gt;nejvíc proto, že&amp;hellip;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;colō, -ere – uctívat&lt;br&gt;
+Hibernia, -ae, f. – Irsko&lt;br&gt;
+dīmidium, -iī, n. – polovina   &lt;br&gt;
+dīmidiō – &lt;em&gt;o polovinu&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;tantus, -a, -um – tak veliký &lt;br&gt;
+quantus, -a, -um – jak veliký&lt;br&gt;
+tantō&amp;hellip; quantō – &lt;em&gt;o to&amp;hellip; oč&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab12&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	&lt;p&gt;&lt;strong&gt;Vocabulary and notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;iūdex, -cis, m. – judge&lt;br&gt;
+iniūriā – unjustly&lt;br&gt;
+accūsātus est – was accused&lt;/li&gt;
+&lt;li&gt;fortis, -e – brave&lt;br&gt;
+hodiē – today&lt;br&gt;
+herī – yesterday&lt;br&gt;
+pugnāvērunt – perf. 3. pl., fought&lt;/li&gt;
+&lt;li&gt;beneficium, -iī, n. – favor&lt;br&gt;
+bis – twice&lt;br&gt;
+dō, -are – give&lt;br&gt;
+celer, -eris –  quick&lt;br&gt;
+is&amp;hellip; quī – &lt;em&gt;the one&amp;hellip; who&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;mediocris, -e – mediocre&lt;br&gt;
+aeger, -gra, -grum – ill&lt;br&gt;
+sānus, -a, -um – healthy&lt;br&gt;
+valētūdō, -dinis, f. – health&lt;br&gt;
+cūrō, -āre – take care of (+ acc.)&lt;/li&gt;
+&lt;li&gt;mōns, -tis, m. – mountain&lt;br&gt;
+lentus, -a, -um – slow&lt;br&gt;
+cautus, -a, -um – careful&lt;br&gt;
+ascendō, -ere – climb, ascend&lt;br&gt;
+hunc montem – &lt;em&gt;this mountain&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;oculus, -ī, m. – eye&lt;br&gt;
+auris, -is, f. – ear&lt;/li&gt;
+&lt;li&gt;alius, -a, -ud – other, another&lt;br&gt;
+proprius, -a, -um – one&amp;rsquo;s own&lt;br&gt;
+prius(quam) – before (smth.)&lt;br&gt;
+īnspiciō, -ere – inspect&lt;br&gt;
+vīs – &lt;em&gt;you want&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;iūcundus, -a, -um – pleasant&lt;br&gt;
+minus – less&lt;br&gt;
+&amp;hellip;nōn minus [iūcundum est] amāre&lt;/li&gt;
+&lt;li&gt;uxor, -ōris, f. – wife&lt;br&gt;
+inveniō, -īre – find&lt;br&gt;
+inveniēs – ind. fut. 2. sg.&lt;/li&gt;
+&lt;li&gt;incipiō, -ere – begin&lt;br&gt;
+dēsinō, -ere – end&lt;br&gt;
+aegrē – &lt;em&gt;hardly, in a difficult way&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;omnis, e – all, every&lt;br&gt;
+dubium, -iī, n. – doubt&lt;br&gt;
+miser, -era, -erum – miserable&lt;br&gt;
+maximē quod&amp;hellip; – &lt;em&gt;the main reason being that&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;colō, -ere – worship&lt;/li&gt;
+&lt;li&gt;Hibernia, -ae, f. – Ireland&lt;br&gt;
+dīmidium, -iī, n. – half&lt;br&gt;
+dīmidiō – &lt;em&gt;(by) one half&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;tantus, -a, -um – so great&lt;br&gt;
+quantus, -a, -um – how great&lt;br&gt;
+tantō&amp;hellip; quantō – &lt;em&gt;the (more)&amp;hellip; the (more)&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;/div&gt;
+&lt;h3 id=&#34;křížové-odkazy&#34;&gt;Křížové odkazy&lt;/h3&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab21&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;Špaňár&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab22&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Pech 1.&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab23&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Wheelock&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab24&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Kacman-Ulyanova&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;2&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab21&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab22&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab23&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName3&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab24&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName4&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+&lt;/div&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>14. lekce – Futurum I. sloves 1. a 2. konjugace</title>
+        <link>/fixed/lekce_14/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+        <author>Martin Masliš</author>
+        <guid>/fixed/lekce_14/</guid>
+        <description>&lt;h2 id=&#34;věty&#34;&gt;Věty&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Patriam nostram semper amābimus, prō patria nostrā dīligenter labōrābimus.&lt;br&gt;
+Vždy budeme milovat svou vlast, pro svou vlast budeme pilně pracovat.&lt;/li&gt;
+&lt;li&gt;Mīlitēs nostrī hostem nōn timēbant neque timēbunt.&lt;br&gt;
+Naši vojáci se nepřítele nebáli a ani se ho bát nebudou.&lt;/li&gt;
+&lt;li&gt;Dōnec eris fēlīx, multōs numerābis amīcōs.&lt;br&gt;
+Dokud budeš mít štěstí, budeš počítat mnoho přátel.&lt;/li&gt;
+&lt;li&gt;Avēs migrantēs autumnō in regiōnēs calidiōrēs āvolant, vēre autem ē terrīs merīdiānīs advolābunt.&lt;br&gt;
+Stěhovaví ptáci na podzim odlétají do teplejších krajin, ale na jaře přiletí z jižních zemí.&lt;/li&gt;
+&lt;li&gt;Vir bonus numquam amīcō nocēbit.&lt;br&gt;
+Dobrý muž nikdy neuškodí příteli.&lt;/li&gt;
+&lt;li&gt;Numquam ā bonīs amāberis, sī malōs amābis.&lt;br&gt;
+Nikdy nebudeš milován dobrými, jestliže budeš mít rád špatné.&lt;/li&gt;
+&lt;li&gt;Sī ab officiō nōn dēterrēbimur, ab omnibus laudābimur.&lt;br&gt;
+Jestliže nebudeme odstrašeni od naší povinnosti, budeme všemi chváleni.&lt;/li&gt;
+&lt;li&gt;Regiōnes opulentae et urbēs flōrentēs bellīs dēlēbantur et dēlēbuntur, nisi nātiōnēs prō pāce pugnābunt.&lt;br&gt;
+Bohaté kraje a vzkvétající města byla a budou válkami ničena, jestliže národy nebudou bojovat za mír.&lt;/li&gt;
+&lt;li&gt;Cīvium nostrōrum industriā atque labōre lībertās patriae nostrae servābitur.&lt;br&gt;
+Pílí a prací našich občanů bude zachráněna svoboda naší vlasti.&lt;/li&gt;
+&lt;li&gt;Sī iūstī eritis, ab hominibus probīs nōn castīgābiminī.&lt;br&gt;
+Jestliže budete spravedliví, nebudete řádnými lidmi trestáni.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;úkol&#34;&gt;Úkol&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Morfologie:
+&lt;ul&gt;
+&lt;li&gt;[Šp] 69/c&lt;/li&gt;
+&lt;li&gt;[Šp] 69/d&lt;/li&gt;
+&lt;li&gt;[Šp] 69/e&lt;/li&gt;
+&lt;li&gt;[P1] 70/7 (ve futuru, první tři dvojice)&lt;/li&gt;
+&lt;li&gt;[P1] 70/8 (z češtiny do latiny)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Věty a texty:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#vety&#34;&gt;[Kac-Uly] 66/6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#text&#34;&gt;[Kac-Uly] 67/ &lt;em&gt;Dē castrīs Rōmānōrum&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;vety&#34;&gt;[Kac-Uly] 66/6&lt;/h4&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab11&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;česky&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab12&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;English&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;1&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab11&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	&lt;p&gt;&lt;strong&gt;Slovní zásoba a poznámky&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;parō, -āre – získávat  &lt;br&gt;
+vērus, -a, -um – skutečný  &lt;br&gt;
+pecūnia, -ae, f. – peníze&lt;/li&gt;
+&lt;li&gt;nēmō, -inis – nikdo &lt;br&gt;
+negō, -āre – odmítat &lt;br&gt;
+auxulium, -iī, n. – pomoc&lt;br&gt;
+nēmō nostrum (gen. pl., partitiv.) – &lt;em&gt;nikdo z nás&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;necessārius, -a, -um – nutný  &lt;br&gt;
+inimīcus, -ī, m. – nepřítel &lt;br&gt;
+timeō, -ēre – bát se &lt;br&gt;
+cunctī, -ae, a – všichni&lt;/li&gt;
+&lt;li&gt;quandō – kdy&lt;/li&gt;
+&lt;li&gt;tergum, -ī, n. – záda &lt;br&gt;
+taurus, -ī, m. – býk &lt;br&gt;
+sedeō, -ēre – sedět &lt;br&gt;
+musca, -ae, f. – moucha &lt;br&gt;
+nimis – příliš&lt;br&gt;
+gravō, -āre – těžit  &lt;br&gt;
+statim – ihned&lt;br&gt;
+āvolō, -āre – odlétat &lt;br&gt;
+ubi – kde&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab12&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	&lt;p&gt;&lt;strong&gt;Vocabulary and notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;parō, -āre – gain &lt;br&gt;
+vērus, -a, -um – real&lt;br&gt;
+pecūnia, -ae, f. – money&lt;/li&gt;
+&lt;li&gt;nēmō, -inis – no one&lt;br&gt;
+negō, -āre – deny&lt;br&gt;
+auxulium, -iī, n. – support&lt;br&gt;
+nēmō nostrum (gen. pl., partitiv.) – &lt;em&gt;none of us&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;necessārius, -a, -um – necessary &lt;br&gt;
+inimīcus, -ī, m. – enemy &lt;br&gt;
+timeō, -ēre – be afraid&lt;br&gt;
+cunctī, -ae, a – all&lt;/li&gt;
+&lt;li&gt;quandō – when&lt;/li&gt;
+&lt;li&gt;tergum, -ī, n. – back&lt;br&gt;
+taurus, -ī, m. – bull &lt;br&gt;
+sedeō, -ēre – sit &lt;br&gt;
+musca, -ae, f. – fly&lt;br&gt;
+nimis – too&lt;br&gt;
+gravō, -āre – weigh down &lt;br&gt;
+statim – immediately&lt;br&gt;
+āvolō, -āre – fly away&lt;br&gt;
+ubi – where&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;/div&gt;
+&lt;h4 id=&#34;text&#34;&gt;[Kac-Uly] 67/ &lt;em&gt;Dē castrīs Rōmānōrum&lt;/em&gt;&lt;/h4&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab21&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;česky&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab22&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;English&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;2&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab21&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	&lt;p&gt;&lt;strong&gt;Slovní zásoba&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;pōnō, -ere – ukládat, zakládat&lt;br&gt;
+prīmō – nejdříve &lt;br&gt;
+castra, -ōrum, n. – tábor&lt;br&gt;
+tribūnus, -ī, m. – vojenský tribun&lt;br&gt;
+idōneus, -a, -um – vhodný &lt;br&gt;
+ēligō, -ere – vybírat  &lt;br&gt;
+aqua, -ae, f. – voda&lt;br&gt;
+cibus, -ī, m. – jídlo &lt;br&gt;
+inveniō, -īre – nacházet &lt;br&gt;
+deinde – pak  &lt;br&gt;
+quadrātus, -a, -um – čtyřhranný &lt;br&gt;
+spatium, -iī, n. – prostor  &lt;br&gt;
+signō, -āre – vyznačovat &lt;br&gt;
+muniō, -īre – opevňovat  &lt;br&gt;
+tabernāculum, -ī, n. – stan  &lt;br&gt;
+vallum, -ī, n. – val &lt;br&gt;
+aedificō, -āre – stavět  &lt;br&gt;
+fossa, -ae, f. – příkop &lt;br&gt;
+fodiō, -ere – kopat &lt;br&gt;
+impedīmentum, -ī, n. – batožina  &lt;br&gt;
+spolia, -ōrum, n. – kořist  &lt;br&gt;
+cumulō, -āre – kopit&lt;br&gt;
+cūstōdia, -ae, f. – stráž &lt;br&gt;
+dispōnō, -ere – rozmísťovat &lt;br&gt;
+dormiō, -īre – spát  &lt;br&gt;
+appropinquō, -āre – blížit se  &lt;br&gt;
+cernō, -ere – rozeznávat&lt;br&gt;
+tuba, -ae, f. – polnice&lt;br&gt;
+strēnuus, -a, -um – vytrvalý  &lt;br&gt;
+dēpellō, -ere – odrážet&lt;br&gt;
+captīvus, -ī, m. – zajatec  &lt;br&gt;
+praemium, -iī, n. – odměna&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab22&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	&lt;p&gt;&lt;strong&gt;Vocabulary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;pōnō, -ere – set up&lt;br&gt;
+prīmō – first&lt;br&gt;
+castra, -ōrum, n. – camp&lt;br&gt;
+tribūnus, -ī, m. – military tribune &lt;br&gt;
+idōneus, -a, -um – suitable&lt;br&gt;
+ēligō, -ere – choose &lt;br&gt;
+aqua, -ae, f. – water&lt;br&gt;
+cibus, -ī, m. – food&lt;br&gt;
+inveniō, -īre – find &lt;br&gt;
+deinde – then &lt;br&gt;
+quadrātus, -a, -um – rectangular &lt;br&gt;
+spatium, -iī, n. – space &lt;br&gt;
+signō, -āre – mark&lt;br&gt;
+muniō, -īre – fortify &lt;br&gt;
+tabernāculum, -ī, n. – tent &lt;br&gt;
+vallum, -ī, n. – earthen wall &lt;br&gt;
+aedificō, -āre – build &lt;br&gt;
+fossa, -ae, f. – trench &lt;br&gt;
+fodiō, -ere – dig &lt;br&gt;
+impedīmentum, -ī, n. – baggage &lt;br&gt;
+spolia, -ōrum, n. – spoils &lt;br&gt;
+cumulō, -āre – pile &lt;br&gt;
+cūstōdia, -ae, f. – guards&lt;br&gt;
+dispōnō, -ere – post&lt;br&gt;
+dormiō, -īre – sleep &lt;br&gt;
+appropinquō, -āre – approach &lt;br&gt;
+cernō, -ere – spot &lt;br&gt;
+tuba, -ae, f. – trumpet &lt;br&gt;
+strēnuus, -a, -um – strenuous &lt;br&gt;
+dēpellō, -ere – chase away &lt;br&gt;
+captīvus, -ī, m. – prisoner &lt;br&gt;
+praemium, -iī, n. – prize&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;/div&gt;
+&lt;h3 id=&#34;křížové-odkazy&#34;&gt;Křížové odkazy&lt;/h3&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-3&#34; data-toggle=&#34;tab&#34; href=&#34;#tab31&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;Špaňár&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-3&#34; data-toggle=&#34;tab&#34; href=&#34;#tab32&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Pech 1.&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-3&#34; data-toggle=&#34;tab&#34; href=&#34;#tab33&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Wheelock&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-3&#34; data-toggle=&#34;tab&#34; href=&#34;#tab34&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Kacman-Ulyanova&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;3&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab31&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab32&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab33&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName3&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab34&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName4&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+&lt;/div&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>15. lekce – Futurum I. sloves 3. a 4. konjugace</title>
+        <link>/fixed/lekce_15/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+        <author>Martin Masliš</author>
+        <guid>/fixed/lekce_15/</guid>
+        <description>&lt;h2 id=&#34;věty&#34;&gt;Věty&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sī bene discēs, ā magistrō et parentibus laudāberis.&lt;br&gt;
+Jestliže se budeš dobře učit, budeš učitelem a rodiči chválen.&lt;/li&gt;
+&lt;li&gt;Lībertās populōrum saepe premēbātur, numquam autem opprimētur.&lt;br&gt;
+Svoboda národů byla často utlačována, nikdy ale nebude potlačena / zničena.&lt;/li&gt;
+&lt;li&gt;Populus noster magnōs honōrēs clārīs scriptōribus et poētis tribuēbat, tribuit, tribuet.&lt;br&gt;
+Náš lid uděloval, uděluje a bude udělovat velké pocty slavným spisovatelům a básníkům.&lt;/li&gt;
+&lt;li&gt;Brevī tempore aut patrem vidēbis aut dē patre audiēs. &lt;br&gt;
+Zanedlouho otce buď uvidíš, nebo o něm uslyšíš.&lt;/li&gt;
+&lt;li&gt;P. Ovidius Nāsō in carminibus suīs scrībit: „Ōre legar populī perqu(e) omnia saecula fāmā vīvam.&amp;quot;&lt;br&gt;
+Ovidius ve svých básních píše: &amp;ldquo;Budu čten ústy lidu a po všechny věky budu žít svou slávou&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Iūre pūniēmini, nisi lēgibus pārēbitis.&lt;br&gt;
+Budete právem potrestáni, jestli nebudete poslouchat zákony.&lt;/li&gt;
+&lt;li&gt;Omnēs dolōrēs tempore minuentur et lēnientur.&lt;br&gt;
+Všechny bolesti se časem budou zmenšovat a zmírňovat.&lt;/li&gt;
+&lt;li&gt;Virī prūdentēs et sapientēs numquam dīvitiās nimiās cupient.&lt;br&gt;
+Rozumní a moudří muži nikdy nebudou toužit po nadměrném bohatství.&lt;/li&gt;
+&lt;li&gt;In nostrīs scholīs adulēscentēs etiam temporibus futūris bene ēducābuntur, exercēbuntur, excolentur, ērudientur.&lt;br&gt;
+V našich školách budou mladíci ještě i v budoucnu dobře vzděláváni, cvičeni, zušlechťováni a vychováváni.&lt;/li&gt;
+&lt;li&gt;Nōn semper ā parentibus alēmur et ērudiēmur.&lt;br&gt;
+Nebudeme vždy rodiči živeni a vychováváni.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;úkol&#34;&gt;Úkol&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Morfologie:
+&lt;ul&gt;
+&lt;li&gt;[Šp] 72/b&lt;/li&gt;
+&lt;li&gt;[Šp] 72/c&lt;/li&gt;
+&lt;li&gt;[Šp] 72/e&lt;/li&gt;
+&lt;li&gt;[P1] 91/4&lt;/li&gt;
+&lt;li&gt;[P1] 92/8&lt;/li&gt;
+&lt;li&gt;[P1] 209/4&lt;/li&gt;
+&lt;li&gt;[Kac-Uly] 66/5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Věty:
+&lt;ul&gt;
+&lt;li&gt;[P1] 94/c&lt;/li&gt;
+&lt;li&gt;[P1] 93/B: 5, 9, 10, 14&lt;/li&gt;
+&lt;li&gt;[P1] 211/B: 3, 5, 7, 11, 14, 18, 24&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;křížové-odkazy&#34;&gt;Křížové odkazy&lt;/h3&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab21&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;Špaňár&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab22&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Pech 1.&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab23&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Wheelock&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab24&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Kacman-Ulyanova&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;2&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab21&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab22&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab23&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName3&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab24&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName4&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+&lt;/div&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>16. lekce – 4. deklinace</title>
+        <link>/fixed/lekce_16/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+        <author>Martin Masliš</author>
+        <guid>/fixed/lekce_16/</guid>
+        <description>&lt;h2 id=&#34;věty&#34;&gt;Věty&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Hostēs nōn timēmus, nam cum nostrō exercitū fortī facile vincēmus.&lt;br&gt;
+Nepřátel se nebojíme, neboť s naším udatným vojskem lehce zvítězíme.&lt;/li&gt;
+&lt;li&gt;Senātuī et magistrātibus Rōmānīs māximī honōrēs tribuēbantur.&lt;br&gt;
+Senátu a římským úředníkům byly udělovány nejvyšší pocty.&lt;/li&gt;
+&lt;li&gt;Magistrātūs lēgibus pārēre dēbent.&lt;br&gt;
+Úředníci musí poslouchat zákony.&lt;/li&gt;
+&lt;li&gt;Cursus vitae hominis brevis est, sed cāsūs hominum saepe variī sunt.&lt;br&gt;
+Běh lidského života je krátký, ale lidské osudy jsou často různé.&lt;/li&gt;
+&lt;li&gt;Homō habet manum dextram et manum sinistram.&lt;br&gt;
+Člověk má pravou a levou ruku.&lt;/li&gt;
+&lt;li&gt;Manus in medicīnā extrēmitās superior nōminātur.&lt;br&gt;
+Ruka se v medicíně nazývá horní končetina.&lt;/li&gt;
+&lt;li&gt;Saepe parvā militum manū magna hostium multitūdō superābātur.&lt;br&gt;
+Často bylo velké množství nepřátel přemoženo malou hrstkou vojáků.&lt;/li&gt;
+&lt;li&gt;In dextrō cornū ācrius quam in sinistrō pugnābātur.&lt;br&gt;
+Na pravém křídle se bojovalo prudčeji než na levém.&lt;/li&gt;
+&lt;li&gt;Cornua cervōrum pulcherrima sunt.&lt;br&gt;
+Parohy jelenů jsou velmi krásné.&lt;/li&gt;
+&lt;li&gt;Ūsus est magister optimus; itaque semper memoriam exercēte!&lt;br&gt;
+Zvyk je nejlepší učitel, proto vždy cvičte svou paměť!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;úkol&#34;&gt;Úkol&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Morfológia
+&lt;ul&gt;
+&lt;li&gt;[Šp] 77/b&lt;/li&gt;
+&lt;li&gt;[Šp] 77/d&lt;/li&gt;
+&lt;li&gt;[P1] 223/2 (tři spojení)&lt;/li&gt;
+&lt;li&gt;[P1] 223/3&lt;/li&gt;
+&lt;li&gt;[P1] 223/4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vety
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#vety&#34;&gt;[P1] 226/B&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[P1] 228/a&lt;/li&gt;
+&lt;li&gt;[P1] 228/b (jen vety z B)&lt;/li&gt;
+&lt;li&gt;[Kac-Uly] 141f./ &lt;em&gt;Prōverbia et dictiōnēs&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;vety&#34;&gt;[P1] 226/ B&lt;/h4&gt;
+&lt;p&gt;1. Vir cum arcū, fēmina cum acū labōrat. 2. Multae manūs onera levia faciunt. 3. Cursus vītae hominis est incertus. 4. In conspectū Trōiānõrum īnsula Tenedus erat. 5. Malum erat tempus et magnus metus cīvēs capiēbat. 6. Omnium bellōrum exitūs incertī sunt. 7. Cāsūs amīcõrum tuōrum bene sciō. 8. In exercitū Catilinae audācissimē pugnābātur. 9. In pugnā ad Cannās exercituī Rōmānō cōnsulēs Terrentius Varrō et L. Aemilius Paullus praeerant. 10. Pulcher vultus saepe non est imāgō pulchrī animī. 11. Adventum exercituum Hannibalis trāns Alpēs Rōmānus senātus non exspectābat. 12. Saepe parvā mīlitum manū magna hostium multitūdo superābātur. 13. Dīdo ad Aenēam: Narrā nunc nōbīs ā principiō dē insidiīs Danaōrum et dē cāsibus tuīs. 14. Genū hūmānum fragile est. 15. Genūs fractūra non facile sānātur. 16. Iam es sānus; manuum, genuum, pedum tuōrum mōtūs enim facilēs sunt. 17. Fēminae et puellae ā Rōmānīs pācem petentēs in genua cadēbant. 18. Parva manus mīlitum in dextrō cornū exercitūs nostrī diū ācriter pugnābat. 19. In fābulā clārā dē cervō superbō causa cervī mortis cornua pulchra erant.&lt;/p&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab11&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;česky&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-1&#34; data-toggle=&#34;tab&#34; href=&#34;#tab12&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;English&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;1&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab11&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	&lt;p&gt;&lt;strong&gt;Slovní zásoba&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;arcus, -ūs, m. – luk &lt;br&gt;
+acus, -ūs, f. – jehla&lt;/li&gt;
+&lt;li&gt;onus, -eris, n. – břemeno  &lt;br&gt;
+levis, -e – lehký&lt;/li&gt;
+&lt;li&gt;cursus, -ūs, m. – běh  &lt;br&gt;
+incertus, -a, -um – nejistý&lt;/li&gt;
+&lt;li&gt;conspectus, -ūs, m. – dohled  &lt;br&gt;
+īnsula, -ae, f. – ostrov&lt;/li&gt;
+&lt;li&gt;metus, -ūs, m. – strach&lt;/li&gt;
+&lt;li&gt;exitus, -ūs, m. – výsledek&lt;/li&gt;
+&lt;li&gt;cāsus, -ūs, m. – případ, osud&lt;br&gt;
+sciō, -īre – znát&lt;/li&gt;
+&lt;li&gt;audāx, -cis – odvážný&lt;/li&gt;
+&lt;li&gt;praesum, -esse – stát v čele + dat.&lt;/li&gt;
+&lt;li&gt;vultus, -ūs, m. – tvář  &lt;br&gt;
+imāgō, -ginis, f. – obraz&lt;/li&gt;
+&lt;li&gt;adventus, -ūs, m. – příchod&lt;br&gt;
+exspectō, -āre – očekávat&lt;/li&gt;
+&lt;li&gt;manus, -ūs, m. – hrstka, ruka&lt;/li&gt;
+&lt;li&gt;insidiae, -ārum, f. –  úskok  &lt;br&gt;
+Danaus, -ī, m. – Řek&lt;/li&gt;
+&lt;li&gt;genū, -ūs, n. –  koleno  &lt;br&gt;
+fragilis, -e – křehký, zranitelný&lt;/li&gt;
+&lt;li&gt;fractūra, -ae, f. – zlomenina  &lt;br&gt;
+sānō, -āre – léčit&lt;/li&gt;
+&lt;li&gt;sānus, -a, -um – zdravý &lt;br&gt;
+pēs, pedis, m. - noha, chodidlo &lt;br&gt;
+mōtus, -ūs, m. – pohyb  &lt;br&gt;
+enim - totiž&lt;/li&gt;
+&lt;li&gt;petō, -ere – žádat&lt;br&gt;
+cadō, -ere – padat&lt;/li&gt;
+&lt;li&gt;-&lt;/li&gt;
+&lt;li&gt;cervus, -ī, m. – jelen &lt;br&gt;
+superbus, -a, -um – pyšný  &lt;br&gt;
+causa, -ae, f. – příčina&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab12&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	&lt;p&gt;&lt;strong&gt;Vocabulary&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;arcus, -ūs, m. – bow&lt;br&gt;
+acus, -ūs, f. – needle&lt;/li&gt;
+&lt;li&gt;onus, -eris, n. – burden &lt;br&gt;
+levis, -e – light&lt;/li&gt;
+&lt;li&gt;cursus, -ūs, m. – course &lt;br&gt;
+incertus, -a, -um – uncertain.&lt;/li&gt;
+&lt;li&gt;conspectus, -ūs, m. – view &lt;br&gt;
+īnsula, -ae, f. – island&lt;/li&gt;
+&lt;li&gt;metus, -ūs, m. – fear&lt;/li&gt;
+&lt;li&gt;exitus, -ūs, m. – outcome&lt;/li&gt;
+&lt;li&gt;cāsus, -ūs, m. – case, fate&lt;br&gt;
+sciō, -īre – know&lt;/li&gt;
+&lt;li&gt;audāx, -cis – brave, audacious&lt;/li&gt;
+&lt;li&gt;praesum, -esse – command + dat.&lt;/li&gt;
+&lt;li&gt;vultus, -ūs, m. – face &lt;br&gt;
+imāgō, -ginis, f. – image&lt;/li&gt;
+&lt;li&gt;adventus, -ūs, m. – arrival &lt;br&gt;
+exspectō, -āre – expect&lt;/li&gt;
+&lt;li&gt;manus, -ūs, m. – hand, handful&lt;/li&gt;
+&lt;li&gt;insidiae, -ārum, f. –  ruse, trick &lt;br&gt;
+Danaus, -ī, m. – Greek&lt;/li&gt;
+&lt;li&gt;genū, -ūs, n. –  knee &lt;br&gt;
+fragilis, -e – vulnerable, fragile&lt;/li&gt;
+&lt;li&gt;fractūra, -ae, f. – fracture &lt;br&gt;
+sānō, -āre – heal&lt;/li&gt;
+&lt;li&gt;sānus, -a, -um – healthy&lt;br&gt;
+pēs, pedis, m. – foot &lt;br&gt;
+mōtus, -ūs, m. – movement &lt;br&gt;
+enim – in fact&lt;/li&gt;
+&lt;li&gt;petō, -ere – demand &lt;br&gt;
+cadō, -ere – fall.&lt;/li&gt;
+&lt;li&gt;-&lt;/li&gt;
+&lt;li&gt;cervus, -ī, m. – deer&lt;br&gt;
+superbus, -a, -um – haughty &lt;br&gt;
+causa, -ae, f. – cause&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+&lt;/div&gt;
+&lt;h3 id=&#34;křížové-odkazy&#34;&gt;Křížové odkazy&lt;/h3&gt;
+&lt;nav&gt;
+	&lt;div class=&#34;nav nav-tabs&#34; id=&#34;nav-tab&#34; role=&#34;tablist&#34;&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link active&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab21&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;true&#34;&gt;Špaňár&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab22&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Pech 1.&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab23&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Wheelock&lt;/a&gt;
+
+		
+		
+
+		
+		
+		
+
+		
+
+		&lt;a class=&#34;nav-item nav-link&#34; id=&#34;nav-2&#34; data-toggle=&#34;tab&#34; href=&#34;#tab24&#34; role=&#34;tab&#34;
+		   aria-controls=&#34;nav-home&#34; aria-selected=&#34;false&#34;&gt;Kacman-Ulyanova&lt;/a&gt;
+
+		
+		
+
+	&lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class=&#34;tab-content&#34; id=&#34;2&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab21&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab22&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab23&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName3&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;tab-pane fade&#34; id=&#34;tab24&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName4&#34;&gt;
+
+	s. &amp;hellip;
+
+&lt;/div&gt;
+
+
+
+
+
+
+&lt;/div&gt;
+</description>
+      </item>
+    
+      <item>
         <title>17. lekce – 5. deklinace</title>
         <link>/fixed/lekce_17/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -1517,7 +3134,7 @@ maneō, -ēre – remain, tarry&lt;/li&gt;
 
 &lt;div class=&#34;tab-pane fade show active&#34; id=&#34;tab21&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName1&#34;&gt;
 
-	s. 1-79
+	s. &amp;hellip;
 
 &lt;/div&gt;
 
@@ -1531,7 +3148,7 @@ maneō, -ēre – remain, tarry&lt;/li&gt;
 
 &lt;div class=&#34;tab-pane fade&#34; id=&#34;tab22&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName2&#34;&gt;
 
-	s. 5-69
+	s. &amp;hellip;
 
 &lt;/div&gt;
 
@@ -1545,7 +3162,7 @@ maneō, -ēre – remain, tarry&lt;/li&gt;
 
 &lt;div class=&#34;tab-pane fade&#34; id=&#34;tab23&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName3&#34;&gt;
 
-	s. 7-89
+	s. &amp;hellip;
 
 &lt;/div&gt;
 
@@ -1560,7 +3177,7 @@ maneō, -ēre – remain, tarry&lt;/li&gt;
 
 &lt;div class=&#34;tab-pane fade&#34; id=&#34;tab24&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;nav-tabName4&#34;&gt;
 
-	s. 3-89
+	s. &amp;hellip;
 
 &lt;/div&gt;
 

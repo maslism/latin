@@ -140,17 +140,17 @@ __Vocabulary__
 
 {{< tabs tabTotal="4" tabID="2" tabName1="Špaňár" tabName2="Pech 1." tabName3="Wheelock" tabName4="Kacman-Ulyanova">}}
 {{< tab tabNum="1" >}}
-s. 1-79
+s. ...
 {{< /tab >}}
 {{< tab tabNum="2" >}}
-s. 5-69
+s. ...
 {{< /tab >}}
 {{< tab tabNum="3" >}}
-s. 7-89
+s. ...
 {{< /tab >}}
 
 {{< tab tabNum="4" >}}
-s. 3-89
+s. ...
 {{< /tab >}}
 
 {{< /tabs >}}

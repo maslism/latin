@@ -40,7 +40,7 @@
 
 
 
-{{< button href="/sylabus/data/doku.pdf" class="btn-outline-info">}}Prípony 3. deklinácie.pdf{{< /button >}}
+{{< button href="/sylabus/data/3dekl_gram.pdf" class="btn-outline-info">}}Prípony 3. deklinácie.pdf{{< /button >}}
 
 
 
