@@ -67,8 +67,8 @@
    metus, -ūs, m. – strach
 9. rēs secundae, -ērum -ārum - příznivé okolnosti  
    parō, -āre – připravovat
-10. urgeō, -ēre – tlačit, pohnánět, drive, push 
-11. aestās, -tātis, f. – léto, summer   
+10. urgeō, -ēre – tlačit, pohnánět
+11. aestās, -tātis, f. – léto
 12. optimus, -a, -um – nejlepší  
     medicāmentum, -ī, n. – lék   
     quiēs, -ētis, f. - klid
@@ -107,7 +107,7 @@ __Vocabulary__
    spēs, -eī, f. –  hope 
 8. ante - before + acc.  
    clādēs, -is, f. – destruction, defeat   
-   metus, -ūs, m. – strach, fear 
+   metus, -ūs, m. – fear 
 9. rēs secundae, -ērum -ārum - favorable situation  
    parō, -āre – prepare, secure
 10. urgeō, -ēre – drive, push 
@@ -129,7 +129,7 @@ __Vocabulary__
     vātēs, -tis, m./f. – prophet  
     multōs diēs - many days  
     maneō, -ēre – remain, tarry 
-17. mittō, -ere – posílat, send
+17. mittō, -ere – send
 
 {{< /tab >}}
 {{< /tabs >}}
