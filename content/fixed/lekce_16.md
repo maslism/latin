@@ -31,13 +31,13 @@
 
 ## Úkol
 
-- Morfológia
+- Morfologie
   - [Šp] 77/b
   - [Šp] 77/d
   - [P1] 223/2 (tři spojení)
   - [P1] 223/3
   - [P1] 223/4
-- Vety
+- Věty
   - [[P1] 226/B]({{< relref "#vety" >}})
   - [P1] 228/a
   - [P1] 228/b (jen vety z B)
