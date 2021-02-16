@@ -46,7 +46,7 @@
 
 
 
-#### [P1] 41f./B: 1.-29. {#vety} 
+#### [P2] 41f./B: 1.-29. {#vety} 
 
 1\. Requiem aeternam dōnā eī, Domine. 2. Et lūx perpetua lūcet iīs. 3. Cūr eī fēminae nōn crēdēbās? 4. Rōmam amō, quamquam eam nōn vidēbam. 5. Tandem videō fīlium meum et eius coniugem. 6. Pater amat līberōs suōs, sed eōrum vitia castīgat. 7. Amīcus meī frātris mihi scribēbat; dē sē minima, de eō multa, dē tē pessima. 8. Sī duo faciunt idem, nōn est idem. 9. Cīves eiusdem reī pūblicae iīsdem lēgibus pārent. 10. Ad rīvum eundem lupus et agnus veniēbant. 11. Iīdem iūdicēs eōdem annō propter eandem culpam eundem servum eādem poenā bis puniēbant. 12. Nōn omnēs eadem mirantur amantque. 13. Haec cōnsilia ā mē accipite! 14. Certō tempore annī omnēs in hunc locum convenient. 15. Tū es Petrus et super hanc petram aedificābo ecclēsiam meam. 16. Huic Iovī Statōrī, antīquissimō custōdī huius urbis, grātiās agimus. 17. Huic ūnī culpae succumbō, huic ūnī virō manum meam dō. 18. Ūna salūs haec est. 19. Nōn meus hic sermō est. 20. Aenēās Dīdōnī iter suum explicāns: Hic cursus viae nostrae erat. 21. Hae sunt, Romāne, tuae artēs. 22. Hoc est corpus meum: hic est calix sanguinis meī. 23. Ovidius in exsiliō queritur: | Sum miser; haec brevis est nostrōrum summa malōrum.ll 24. Umbrārum hic locus est, somnī noctisque sopōrae. 25. Ex Cicerōnis ōrātiōne illā in Catilīnam: Senātus haec intellegit, cōnsul videt, hic tamen vīvit. 26. Tempora mūtantur et nōs mūtāmur in illīs. 27. Laudāmur ab hōc, castīgāmur ab illō. 28. Haec erat illa famēs. (Anchīsēs enim fīliō suō fātum dābat: Famēs vōs cōget mensās cōnsūmere.) 29. Vercingetorīx et Caesar clārissimī ducēs erant; huius patria Italia, illīus Gallia erat.
 
