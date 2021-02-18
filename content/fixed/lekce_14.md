@@ -49,6 +49,8 @@
 
 #### [Kac-Uly] 66/6 {#vety} 
 
+1\. Vērum amīcum pecūniā nōn parābis. 2. Nēmō nostrum amīcō auxilium negābit. 3. Sī necessārium erit prō patriā nostrā pugnāre, nūllum inimīcum timēbimus et cūncta bellī perīcula tolerābimus. 4. Quandō tē vidēbō? Quandō ad mē veniēs aut epistulam scrībēs? 5. In tergō taurī parva sedēbat musca. «Sī tē nimis gravō, — inquit, — statim āvolābō». Tum taurus: «Ubi es? Nihil sentiō».
+
 {{< tabs tabTotal="2" tabID="1" tabName1="česky" tabName2="English" >}}
 {{< tab tabNum="1" >}}
 **Slovní zásoba a poznámky**
@@ -106,6 +108,10 @@
 {{< /tabs >}}
 
 #### [Kac-Uly] 67/ *Dē castrīs Rōmānōrum* {#text}
+
+Ā Rōmānīs castra in bellō pōnēbantur. Prīmō ā tribūnō locus idōneus ēligēbātur, ubi aqua et cibus facile inveniēbantur. Deinde quadrātum spatium signābātur et mūniēbātur. In mediīs castrīs multa tabernācula pōnēbantur. Circum castra vallum aedificābātur et fossa fodiēbātur. Impedīmenta et spolia in spatiō inter vallum et tabernācula cumulābantur. In castrīs cūstōdiae per vallum dispōnēbantur. Itaque cōpiae sēcūrae in castrīs dormiēbant. 
+
+Imperātor dīcit: «Mīlitēs! Sī inimīcī vāllō appropinquābunt, statim ā cūstōdiīs cernentur. Signum tubā dabitur. Sī strēnuī eritis et fortiter pugnābitis, inimīcī dēpellentur et vincentur. Captīvī tum Rōmam dūcentur, vōbīs praemia magna dabuntur. Glōria magna parābitur vōbīs».
 
 {{< tabs tabTotal="2" tabID="2" tabName1="česky" tabName2="English" >}}
 {{< tab tabNum="1" >}}

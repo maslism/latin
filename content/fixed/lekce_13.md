@@ -50,6 +50,8 @@
 
 #### [Kac-Uly] 167/3 {#vety} 
 
+1\. Sōcratēs ā jūdicibus injūriā accūsātus est. 2. Mīlitēs fortius hodiē, quam herī pugnāvērunt. 3. Is beneficium bis dat, quī celeriter dat. 4. Corpus, etiam sī mediocriter aegrum est, sānus nōn est; itaque valētūdinem tuam dīligenter cūrā. 5. Mēlius erit hunc montem lentē cautēque, quam breviter ascendere. 6. Hominēs plūs oculīs, quam auribus crēdunt. 7. Sī vīs alium accūsāre, propriam vītam prius īnspice. 8. Jūcundissimum est amārī, sed nōn minus amāre. 9. Fēminam meliōrem, quam uxor mea, nōn facile inveniēs! 10. Omne bellum facile incipit, aegerrimē dēsinit. 11. Omnēs stultī sunt sine dubiō miserrimī, maximē quod stultī sunt. 12. Gallī omnium deōrum maximē Mercurium colunt. 13. Hibernia dīmidiō minor est, quam Britannia. (Caesar) 14. Tantō brevius tempus, quantō fēlīcius est.
+
 {{< tabs tabTotal="2" tabID="1" tabName1="česky" tabName2="English" >}}
 {{< tab tabNum="1" >}}
 **Slovní zásoba a poznámky**

@@ -47,6 +47,8 @@
 
 #### [Kac-Uly] 63/ 5 A: věty {#vety}
 
+1\. Cōpiae Rōmānōrum armīs et tēlīs pugnābant et inimīcōs fugābant. 2. Lacedaemoniī ante proelia comam corōnīs ōrnābant. 3. Solēbant Graecī monumenta exstruere in locō victōriae, quod Rōmānī nōn faciēbant. 4. In bellō portae templī Jānī nōn claudēbantur. 5. Magistrī puerōrum Rōmānōrum plērumque servī Graecī erant, nōn līberī virī. 6. Dēscrībitur ab Homērō bellum longum, quod Graecī cum Trojānīs gerēbant. 7. Ā poētīs antīquīs multa facta virōrum clārōrum dēscrībebantur.
+
 {{< tabs tabTotal="2" tabID="1" tabName1="česky" tabName2="English" >}}
 {{< tab tabNum="1" >}}
 **Slovní zásoba**

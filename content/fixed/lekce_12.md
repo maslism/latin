@@ -47,6 +47,8 @@
 
 #### [Kac-Uly] 163/ *Prōverbia et dictiōnēs* {#vety} 
 
+1\. Gravius est malum omne, quod sub aspectū bonī latet. 2. Interdum major pars meliōrem vincit. 3. Rīsū ineptō rēs ineptior nūlla est. 4. Honōrēs mūtant mōrēs, sed rārō in meliōrēs. 5. Adversās rēs meliōrēs facit amīcitia. 6. Spērō meliōrā. 7. Ūsus est magister omnium rērum optimus. 8. Quō quisque sapientior est, eō modestior est. 9. Tardiōra sunt remedia, quam mala. 10. Flammā fūmō est proxima. 11. Potior est perīculōsa lībertās quiētō servitiō. 12. Nihil est pejus amīcō falsō. 13. Magna rēs est amor. 14. Ad meliōra tempora. 15. Mōre majōrum. 16. In optimā fōrmā. 17. Diī minōrum gentium. 18. Cēde majōrī! 19. Ultimum refugium. 20. Ultimum valē. 21. Ultima ratiō.
+
 {{< tabs tabTotal="2" tabID="1" tabName1="česky" tabName2="English" >}}
 {{< tab tabNum="1" >}}
 **Slovní zásoba a poznámky**

@@ -49,120 +49,124 @@
 
 
 
-#### [Kac-Uly] 63/ 5 A: věty {#vety} 
+#### [Kac-Uly] 119/věty {#vety} 
+
+1\. Pars prō tōtō. 2. Sī vōx est, cantā! 3. Nēmō jūdex in propriā causā. 4. Nūlla calamitās sōla. 5. Dūra lēx, sed lēx. 6. Amīcus Platō, sed magis amīca vēritās. 7. Cōnsuētūdō est altera nātūra. 8. Mel in ōre, verba lactis, fel in corde, fraus in factīs. 9. Barba crēscit, caput nescit. 10. Ō tempora, ō mōrēs! 11. Cum grānō salis. 12. Nōmina sunt odiōsa. 13. Tempora mūtantur et nōs mūtāmur in illīs. 14. Caput mundī. 15. Per fās et nefās. 16. Vēritās — temporis fīlia. 17. Jūs gentium. 18. Pānem et circēnsēs. 19. Ovem lupō committere. 20. Vulpēs pilum mūtat, nōn mōrēs. 21. Urbī et orbī. 22. Homō prōpōnit, sed deus dispōnit.
 
 {{< tabs tabTotal="2" tabID="1" tabName1="česky" tabName2="English" >}}
 {{< tab tabNum="1" >}}
 **Slovní zásoba**
 
-pars, -tis, f. – část    
-tōtum, -ī, n. – celek    
-vōx, vōcis, f. – hlas    
-cantō, -āre – zpívat   
-iūdex, -icis, m. – soudce    
-proprius, -a, -um – vlastný    
-causa, -ae, f. – případ    
-nūllus, -a, -um – žádný   
-calamitās, -tātis, f. – pohroma    
-sōlus, -a, -um – sám    
-dūrus, -a, -um – tvrdý    
-lēx, lēgis, f. – zákon   
-magis – víc    
-amīcus, -a, -um – přátelský, drahý    
-veritās, -tātis, f. – pravda    
-consuetūdō, -dinis, f. – zvyk    
-alter, -era, -erum – druhý   
-mel, mellis, n. – med    
-ōs, ōris, n. – ústa    
-lac, lactis, n. – mléko    
-fel, fellis, n. – žluč   
-cor, cordis, n. – srdce   
-fraus, -dis, f. – podvod    
-factum, -ī, n. – čin, deed   
-barba, -ae, f. – vousy    
-crescō, -ere – růst    
-caput, -itis, n. – hlava    
-nesciō, -īre – neznat   
-mōs, mōris, m. – mrav   
-grānum, -ī, n. – zrnko    
-sal, salis, m. – sůl    
-odiōsus, -a, -um – nenávistný    
-mūtō, -āre – měnit    
-mundus, -ī, m. – svět    
-per – přes + acc.   
-fās – dovolený    
-nefās – nedovolený     
-iūs, iūris, n. – právo    
-gēns, -ntis, f. – národ    
-panis, -is, m. – chléb   
-circensēs, -ium, m. – hry   
-ovis, is, f. – ovce    
-lupus, -ī, m. – vlk   
-committō, -ere – svěřovat   
-vulpes, -is, f. – liška   
-pilus, -ī, m. – srst  
-urbs, -is, f. město   
-orbis, is, m. - svět   
-homō, -inis, m. - člověk   
-prōpōnō, -ere – navrhovat, plánovat    
-dispōnō, -ere – rozvrhovat, rozhodovat
+1. pars, -tis, f. – část    
+   tōtum, -ī, n. – celek    
+   vōx, vōcis, f. – hlas    
+2. cantō, -āre – zpívat   
+3. iūdex, -icis, m. – soudce    
+   proprius, -a, -um – vlastný    
+   causa, -ae, f. – případ    
+4. nūllus, -a, -um – žádný   
+   calamitās, -tātis, f. – pohroma    
+   sōlus, -a, -um – sám    
+   dūrus, -a, -um – tvrdý    
+5. lēx, lēgis, f. – zákon   
+6. magis – víc    
+   amīcus, -a, -um – přátelský, drahý    
+   veritās, -tātis, f. – pravda    
+7. cōnsuetūdō, -dinis, f. – zvyk    
+   alter, -era, -erum – druhý   
+8. mel, mellis, n. – med    
+   ōs, ōris, n. – ústa    
+   lac, lactis, n. – mléko    
+   fel, fellis, n. – žluč   
+   cor, cordis, n. – srdce   
+   fraus, -dis, f. – podvod    
+   factum, -ī, n. – čin, deed   
+9. barba, -ae, f. – vousy    
+   crescō, -ere – růst    
+   caput, -itis, n. – hlava    
+   nesciō, -īre – neznat   
+10. mōs, mōris, m. – mrav   
+11. grānum, -ī, n. – zrnko    
+    sal, salis, m. – sůl    
+12. odiōsus, -a, -um – nenávistný    
+13. mūtō, -āre – měnit    
+14. mundus, -ī, m. – svět    
+15. per – přes + acc.   
+    fās – dovolený    
+    nefās – nedovolený     
+16. ~
+17. iūs, iūris, n. – právo    
+    gēns, -ntis, f. – národ    
+18. panis, -is, m. – chléb   
+    circensēs, -ium, m. – hry   
+19. ovis, is, f. – ovce    
+    lupus, -ī, m. – vlk   
+    committō, -ere – svěřovat   
+20. vulpes, -is, f. – liška   
+    pilus, -ī, m. – srst  
+    urbs, -is, f. město   
+21. orbis, is, m. - svět   
+    homō, -inis, m. - člověk   
+22. prōpōnō, -ere – navrhovat, plánovat    
+    dispōnō, -ere – rozvrhovat, rozhodovat
 
 {{< /tab >}}
 {{< tab tabNum="2" >}}
 
 **Vocabulary**
 
-pars, -tis, f. – part   
-tōtum, -ī, n. – whole   
-vōx, vōcis, f. – voice   
-cantō, -āre – sing  
-iūdex, -icis, m. – judge   
-proprius, -a, -um – one's own   
-causa, -ae, f. – case   
-nūllus, -a, -um – no   
-calamitās, -tātis, f. – disaster   
-sōlus, -a, -um – alone   
-dūrus, -a, -um – hard   
-lēx, lēgis, f. – law   
-magis – more   
-amīcus, -a, -um – friendly, dear   
-veritās, -tātis, f. – truth   
-consuetūdō, -dinis, f. – habit   
-alter, -era, -erum – second, another   
-mel, mellis, n. – honey   
-ōs, ōris, n. – mouth   
-lac, lactis, n. – milk   
-fel, fellis, n. – gall   
-cor, cordis, n. – heart   
-fraus, -dis, f. – fraud   
-factum, -ī, n. – deed   
-barba, -ae, f. – beard   
-crescō, -ere – grow   
-caput, -itis, n. – head   
-nesciō, -īre – ignore   
-mōs, mōris, m. – morals   
-grānum, -ī, n. – grain   
-sal, salis, m. – salt   
-odiōsus, -a, -um – bringing hatred   
-mūtō, -āre – change   
-mundus, -ī, m. – world   
-per – through + acc.   
-fās – lawful   
-nefās – unlawful    
-iūs, iūris, n. – justice   
-gēns, -ntis, f. – nation   
-panis, -is, m. – bread   
-circensēs, -ium, m. – games in the circus   
-ovis, is, f. – sheep   
-lupus, -ī, m. – wolf   
-committō, -ere – entrust   
-vulpes, -is, f. – fox   
-pilus, -ī, m. – fur   
-urbs, -is, f. – city   
-orbis, is, m. – world   
-homō, -inis, m. – man, human   
-prōpōnō, -ere – set forth, plan   
-dispōnō, -ere – arrange, order
+1. pars, -tis, f. – part   
+   tōtum, -ī, n. – whole   
+2. vōx, vōcis, f. – voice   
+   cantō, -āre – sing  
+3. iūdex, -icis, m. – judge   
+   proprius, -a, -um – one's own   
+   causa, -ae, f. – case   
+4. nūllus, -a, -um – no   
+   calamitās, -tātis, f. – disaster   
+   sōlus, -a, -um – alone   
+5. dūrus, -a, -um – hard   
+   lēx, lēgis, f. – law   
+6. magis – more   
+   amīcus, -a, -um – friendly, dear   
+   veritās, -tātis, f. – truth   
+7. cōnsuetūdō, -dinis, f. – habit   
+   alter, -era, -erum – second, another   
+8. mel, mellis, n. – honey   
+   ōs, ōris, n. – mouth   
+   lac, lactis, n. – milk   
+   fel, fellis, n. – gall   
+   cor, cordis, n. – heart   
+   fraus, -dis, f. – fraud   
+   factum, -ī, n. – deed   
+9. barba, -ae, f. – beard   
+   crescō, -ere – grow   
+   caput, -itis, n. – head   
+   nesciō, -īre – ignore   
+10. mōs, mōris, m. – morals   
+11. grānum, -ī, n. – grain    
+    sal, salis, m. – salt   
+12. odiōsus, -a, -um – bringing hatred   
+13. mūtō, -āre – change   
+14. mundus, -ī, m. – world     
+    per – through + acc.   
+15. fās – lawful   
+    nefās – unlawful    
+16. ~
+17. iūs, iūris, n. – justice   
+    gēns, -ntis, f. – nation   
+18. panis, -is, m. – bread   
+    circensēs, -ium, m. – games in the circus   
+19. ovis, is, f. – sheep   
+    lupus, -ī, m. – wolf   
+    committō, -ere – entrust   
+20. vulpes, -is, f. – fox   
+    pilus, -ī, m. – fur   
+21. urbs, -is, f. – city   
+    orbis, is, m. – world   
+22. homō, -inis, m. – man, human   
+    prōpōnō, -ere – set forth, plan   
+    dispōnō, -ere – arrange, order
 
 {{< /tab >}}
 {{< /tabs >}}

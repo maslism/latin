@@ -17,13 +17,13 @@
 5. Vetus est prōverbium: Nūllum malum est sine aliquō bonō.  
     Je staré rčení: Žádné zlo není bez něčeho dobrého.
 6. Sunt animālia quaedam, quae ūnum diem vīvunt.  
-  Jsou jakási zvířata, která žijí jeden jeden.  
+    Jsou jakási zvířata, která žijí jeden jeden.  
 7. Nōn tibi sōlī nātus es, sed patriae et tuīs.   
-  Nenarodil ses jenom sám pro sebe, ale pro svou vlast a blízké.  
+    Nenarodil ses jenom sám pro sebe, ale pro svou vlast a blízké.  
 8. Calamitāte alterius docēmur et monēmur.  
-  Pohromou druhého člověka jsme poučováni a varováni.  
+    Pohromou druhého člověka jsme poučováni a varováni.  
 9. Nūllā rē ab officiīs dēterrēbāmur neque dēterrēbimur.  
-  Ničím jsme nebyli od povinností odstrašeni a ani nebudeme odstrašeni. 
+    Ničím jsme nebyli od povinností odstrašeni a ani nebudeme odstrašeni. 
 10. Nūllīus amor tālis est quam mātris.  
     Nikoho láska není taková jako láska matky.   
 
@@ -124,9 +124,10 @@ Orgetorīx. 19. Cimbrī et Teutonī, saevae gentēs ex Germāniā venientēs, t�
 28. gerō, -ere – vést  
     nūbō, -ere – vdávat se   
     rēgnum, -ī, n. – království  
-    rēgnae quae – acc. pl., království, která 
+    rēgnae quae – acc. pl., království, která   
 
 {{< /tab >}}
+
 {{< tab tabNum="2" >}}
 
 **Vocabulary** 
