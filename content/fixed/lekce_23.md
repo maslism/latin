@@ -67,6 +67,8 @@
 
 
 
+{{< button href="/latin/data/Latinske_slovesa.pdf" class="btn-outline-info">}}Seznam sloves (s. 112 [22]–115 [25]){{< /button >}}
+
 
 
 ### Křížové odkazy  
