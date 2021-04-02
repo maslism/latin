@@ -11,9 +11,9 @@
 2. Saepe vōs monuimus, ut magistrīs pārērētis, sed vōs nōn pāruistis.  
    Často jsme vás napomenuli, aby jste poslouchali učitele, ale vy jste neposlechli.
 3. Quod nōn tacuistī, multīs displicuistī.  
-   Protože jste nezmlkli, mnohým jsme se znelíbili.   
+   Protože jsi nezmlkl, mnohým jsi se znelíbil.   
 4. Rōmānī cum hostibus cōnflīxērunt et celerī impetū eōs pepulērunt.  
-   Římané se srazili s nepřáteli a rychlím útokem je zahnali.
+   Římané se srazili s nepřáteli a rychlým útokem je zahnali.
 5. Caesar victōriam suam hīs verbīs senātuī Rōmānō nuntiāvit: Vēnī, vīdī, vīcī!  
    Caesar oznámil své vítězství římskému senátu těmito slovy: Přišel jsem, viděl jsem, zvítězil jsem! 
 6. Parentibus magistrīsque nostrīs semper grātī fuimus.  
